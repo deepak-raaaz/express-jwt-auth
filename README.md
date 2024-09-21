@@ -66,7 +66,7 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/jwt-auth.git
+   git clone https://github.com/deepak-raaaz/express-jwt-auth.git
    cd jwt-auth
    ```
 
